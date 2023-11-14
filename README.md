@@ -12,6 +12,6 @@ Inside the repo there are projects that do analysis on:
 
 3. [Movies budget](https://github.com/giannisyp/Data-Analysis/tree/main/Data_analysis_Movies_budget-gross_estimate)
 
-4. [Salaries by college major]
+4. [Salaries by college major](https://github.com/giannisyp/Data-Analysis/tree/main/Data_exploration)
 
-5. [Finally the most used programming languages] 
+5. [Finally the most used programming languages](https://github.com/giannisyp/Data-Analysis/tree/main/Data_visualisation) 
