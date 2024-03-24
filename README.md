@@ -2,7 +2,7 @@
 
 ## Various Projects
 
-This repository presents some dashboards and analysis made using the most popular Python libraries for various purposes
+This repository presents some dashboards and analysis made using the most popular Python libraries for various purposes.
 
 Inside the repo there are projects that do analysis on:
 
